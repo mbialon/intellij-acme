@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>net.bialon.acmeTheme</id>
   <name>Acme Theme</name>
-  <version>0.1.2</version>
+  <version>0.1.3</version>
   <vendor email="marcin@bialon.net" url="https://bialon.net">Marcin Białoń</vendor>
 
   <description><![CDATA[
