@@ -1,0 +1,10 @@
+<scheme name="intellij-acme" version="142" parent_scheme="Default">
+  <attributes>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffffeb" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

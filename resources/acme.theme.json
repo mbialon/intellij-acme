@@ -1,0 +1,8 @@
+{
+  "name": "IntelliJ Acme Theme",
+  "dark": false,
+  "author": "Marcin Białoń <marcin@bialon.net>",
+  "editorScheme": "/acme.xml",
+  "ui": {
+  }
+}
