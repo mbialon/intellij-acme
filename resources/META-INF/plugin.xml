@@ -4,12 +4,14 @@
   <version>0.1.1</version>
   <vendor email="marcin@bialon.net" url="https://bialon.net">Marcin Białoń</vendor>
 
-  <description>IntelliJ Acme is a light theme for IntelliJ-based IDEs. It's inspired by the <a href="http://acme.cat-v.org/">Acme</a> text editor.</description>
+  <description><![CDATA[
+  IntelliJ Acme is a light theme for IntelliJ-based IDEs. It's inspired by the <a href="http://acme.cat-v.org/">Acme</a> text editor.
+  ]]></description>
 
   <change-notes><![CDATA[
       Add change notes here.<br>
       <em>most HTML tags may be used</em>
-    ]]>
+  ]]>
   </change-notes>
 
   <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
