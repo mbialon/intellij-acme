@@ -107,5 +107,11 @@
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
     <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value />
+    </option>
   </attributes>
 </scheme>
