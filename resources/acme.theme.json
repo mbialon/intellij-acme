@@ -4,5 +4,14 @@
   "author": "Marcin Białoń <marcin@bialon.net>",
   "editorScheme": "/acme.xml",
   "ui": {
+    "*": {
+      "background": "#ffffeb"
+    },
+    "ToolWindow": {
+      "Header": {
+        "background": "#eeee9e",
+        "inactiveBackground": "#ffffeb"
+      }
+    }
   }
 }
