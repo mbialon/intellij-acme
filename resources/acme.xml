@@ -97,7 +97,9 @@
       </value>
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="BACKGROUND" value="eaffff" />
+      </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
@@ -124,7 +126,9 @@
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="BACKGROUND" value="eaffff" />
+      </value>
     </option>
     <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="CONSOLE_CYAN_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
