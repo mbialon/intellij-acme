@@ -5,7 +5,7 @@
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/14748.svg)](https://plugins.jetbrains.com/plugin/14748)
 
 <!-- Plugin description -->
-Acme is a light theme for IntelliJ-based IDEs. It's inspired by the [Acme](http://acme.cat-v.org/) text editor.
+Acme is a light theme for IntelliJ-based IDEs. It's inspired by the Acme text editor.
 <!-- Plugin description end -->
 
 ## Installation
